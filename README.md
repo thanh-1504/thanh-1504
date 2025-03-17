@@ -6,7 +6,7 @@
 <p align="center">
   <h3 align="center">A web developer from Vietnam 🇻🇳 </h3>
 </p>
-> ✍ I'm learning web developer.
+> ✍ I'm learning NestJS.
 
 
 ## 📫 How to reach me:
